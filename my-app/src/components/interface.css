@@ -1,0 +1,67 @@
+.box {
+    border: 2px solid grey;
+    width: 45%;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: #DFDFDF;
+    float: right;
+    overflow-y: auto;
+}
+
+.ml {
+    border: 2px solid #339999;
+    border-radius: 5px;
+    margin: 5px;
+    max-width: 60%;
+    clear: both;
+    float: left;
+    background-color: white;
+    padding: 5px;
+    position: relative;
+}
+
+.mr {
+    clear: both;
+    float: right;
+    border-radius: 5px;
+    border: 2px solid #339999;
+    max-width: 60%;
+    text-align: right;
+    margin: 5px;
+    padding: 5px;
+    background-color: white;
+}
+
+.tbl {
+    border: 2px solid grey;
+    width: 45%;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: #DFDFDF;
+    float: left
+}
+
+.inp {
+    /*border: 2px solid grey;*/
+    width: 45%;
+    height: 40px;
+    position: relative;
+    float: right;
+    clear: both;
+}
+.inp-txt{
+    border: 2px solid grey;
+    width: 85%;
+    height: 85%;
+    background-color: white;
+    position: relative;
+    float: left;
+}.inp-btn{
+     border: 2px solid grey;
+     width: 13%;
+     height: 100%;
+     background-color: white;
+     position: relative;
+ }
